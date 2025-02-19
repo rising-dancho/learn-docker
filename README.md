@@ -45,5 +45,4 @@ This repository is for use in my Udemy Courses "[Docker Mastery](https://www.ude
 
 Feel free to create issues or PRs if you find a problem with examples in this repository!
 # docker
-# docker
 # learn-docker
